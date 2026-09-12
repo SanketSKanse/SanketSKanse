@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Sanket 👋
 
-<!--
-**SanketSKanse/SanketSKanse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 I’m currently working on full-stack web applications
+- 🌱 I’m currently learning modern web architectures
+- 💬 Ask me about TypeScript, JavaScript, React, Node.js
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,postgres,git,github,docker" alt="My Skills" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanketSKanse&show_icons=true&theme=dark" alt="Sanket's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanketSKanse&theme=dark" alt="GitHub Streak" />
+</p>
