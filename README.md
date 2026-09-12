@@ -8,8 +8,8 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,postgres,git,github,docker" alt="My Skills" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanketKanse&show_icons=true&theme=dark" />
 </p>
 
 ---
